@@ -1,0 +1,1 @@
+ubuquiti_unifi_uap_flexHD
